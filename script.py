@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
-user_data=pd.read_csv('userdata.csv')
-project_data= pd.read_csv('projectdata.csv')
+user_data=pd.read_csv('./userdata.csv')
+project_data= pd.read_csv('./projectdata.csv')
 user_data.fillna(0, inplace=True)
 userids=user_data['User_ID/Skill_ID']
 user_data.drop(['User_ID/Skill_ID'], axis = 1, inplace=True)
@@ -19,3 +19,4 @@ df['ProjectID']=project_ids
 df.sort_values(0, ascending=False, inplace=True)
 res_df = df[df[0] > 5] 
 res_df
+res_df.to_csv('output.csv') 
