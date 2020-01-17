@@ -1,0 +1,21 @@
+ProjectID,Project Title,Description,Android Development,Web Development,Machine Learning,Data Mining,Marketing,Integration,Content Writing,Database Management,Algorithms ,UI developement,Backend Development,Deep Learning,AWS,Testing & Debugging,Data Structures
+PID1,Abc,Dummy desc 1,4,0,0,0,0,3,0,3,0,2,4,3,0,1,1
+PID2,def,Dummy desc 2,0,4,0,2,0,0,0,4,0,0,3,0,0,2,0
+PID3,ghi,Dummy desc 3,0,0,4,0,0,0,0,2,4,3,1,4,2,3,3
+PID4,Abc,Dummy desc 1,0,1,3,0,0,3,0,0,0,1,0,0,0,0,2
+PID5,def,Dummy desc 2,0,2,5,3,0,2,0,3,1,0,2,3,2,2,1
+PID6,ghi,Dummy desc 3,0,5,0,4,0,0,3,2,0,3,4,0,2,4,0
+PID7,Abc,Dummy desc 1,0,3,0,0,0,0,1,1,2,2,2,0,0,2,2
+PID8,def,Dummy desc 2,3,0,0,0,2,0,1,4,3,4,0,0,3,1,3
+PID9,ghi,Dummy desc 3,1,0,0,4,0,0,0,0,2,0,0,0,2,0,0
+PID10,Abc,Dummy desc 1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+PID11,def,Dummy desc 2,2,0,5,0,0,3,0,2,0,1,2,0,0,1,1
+PID12,ghi,Dummy desc 3,0,4,0,2,0,0,0,4,0,0,3,0,0,2,0
+PID13,Abc,Dummy desc 1,0,0,4,0,0,0,0,2,4,3,1,4,2,3,3
+PID14,def,Dummy desc 2,0,1,3,0,0,3,0,0,0,1,0,0,0,0,2
+PID15,ghi,Dummy desc 3,0,2,5,3,0,2,0,3,1,0,2,3,2,2,1
+PID16,Abc,Dummy desc 1,0,5,0,4,0,0,3,2,0,3,4,0,2,4,0
+PID17,def,Dummy desc 2,0,3,0,0,0,0,1,1,2,2,2,0,0,2,2
+PID18,ghi,Dummy desc 3,3,0,0,0,2,0,1,4,3,4,0,0,3,1,3
+PID19,Abc,Dummy desc 1,1,0,0,4,0,0,0,0,2,0,0,0,2,0,0
+PID20,def,Dummy desc 2,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
