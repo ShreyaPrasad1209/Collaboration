@@ -1,26 +1,22 @@
-const csvFilePath = './output.csv';
-const csv = require('csvtojson');
-let obj;
-let obj1=[];
-csv().fromFile(csvFilePath).then((jsonObj) => {
-    obj = jsonObj;
-    for (let i = 0; i < obj.length; i++) {
-        obj1.push(obj[i]['ProjectID'])
-    }
-});
+"use strict";
 
-const jsonArray = csv().fromFile(csvFilePath);
-document.querySelector('Aloo').addEventListener('click',function(){
-    console.log('hello')
-    appendData();
-});
-function appendData() {
-    var mainContainer = document.getElementById("recommendation");
-    for (var i = 0; i < jsonArray.length; i++) {
-      var div = document.createElement("div");
-      div.innerHTML = 'yo';
-      mainContainer.appendChild(div);
-    }
-  }
+let myRequest = new Request("../convertcsv.json");
 
+fetch(myRequest)
+    .then(function(resp){
+        return resp.json();
 
+    })
+    .then(function(data){
+        console.log(data);
+        var table = document.getElementById('myTable');
+
+		for (var i = 0; i < data.length; i++){
+			var row = `<tr>
+							<td>${data[i].ProjectID}</td>
+							
+					  </tr>`
+            table.innerHTML += row
+        console.log('hello');
+        }
+    });
