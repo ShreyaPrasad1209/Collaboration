@@ -6,10 +6,6 @@
 
 import pandas as pd
 import numpy as np
-<<<<<<< HEAD
-user_data=pd.read_csv('./userdata.csv')
-project_data= pd.read_csv('./projectdata.csv')
-=======
 import turicreate
 
 
@@ -23,7 +19,6 @@ project_data= pd.read_csv('projectdata.csv')
 # In[3]:
 
 
->>>>>>> 32b41ba... Added interaction data and project metadata, modified script
 user_data.fillna(0, inplace=True)
 userids=user_data['User_ID/Skill_ID']
 user_data.drop(['User_ID/Skill_ID'], axis = 1, inplace=True)
@@ -62,15 +57,6 @@ project_data.drop(['ProjectID'], axis=1, inplace=True)
 # In[9]:
 
 scores = np.dot(project_data, d1)
-<<<<<<< HEAD
-scores= scores.transpose()
-df= pd.DataFrame(scores)
-df['ProjectID']=project_ids
-df.sort_values(0, ascending=False, inplace=True)
-res_df = df[df[0] > 5] 
-res_df
-res_df.to_csv('output.csv') 
-=======
 
 
 # In[10]:
@@ -118,7 +104,6 @@ project_data['ProjectID']=project_ids
 
 # In[17]:
 
-
 project_data = turicreate.SFrame('projectdata.csv')
 pm2 = turicreate.recommender.item_content_recommender.create(project_data, 'ProjectID')
 
@@ -146,10 +131,10 @@ for id in project_ids.iteritems():
     f1 = res_df1.where(res_df1['ProjectID']==id[1]).dropna()[0]
     f1= list(f1)
     f1=f1[0]
-    f2= res_df2.filter_by(id[1], 'Interested')['score']
+    #f2= res_df2.filter_by(id[1], 'Interested')['score']
     #print f2
-    if len(f2)==0:
-        f2=0
+    #if len(f2)==0:
+    f2=0
     f3 = res_df3.filter_by(id[1], 'ProjectID')['score']
     if len(f3)==0:
         f3=0
@@ -172,4 +157,3 @@ project_metadata= pd.read_csv('Projectmetadata.csv')
 rslt_df= rslt_df.join(project_metadata.set_index('ProjectID'), on='ProjectID')
 rslt_df.to_csv('output.csv')
 
->>>>>>> 32b41ba... Added interaction data and project metadata, modified script
