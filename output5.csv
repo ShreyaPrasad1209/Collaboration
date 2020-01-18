@@ -1,11 +1,15 @@
-,ProjectID,score,Project Title,Description,Android Development,Web Development,Machine Learning,Data Mining,Digital Marketing,Integration,Content Writing,Database Management,data structures & Algorithms,UI developement,Backend Development,Deep Learning,AWS,Testing & Debugging,photoshop,SEO
-58,PID59,2.236190415090985,def,Dummy desc 4,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,5
-78,PID79,2.236190415090985,Abc,Dummy desc 4,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,5
-18,PID19,2.1250810854964786,Abc,Dummy desc 1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,5
-38,PID39,2.0139699810081058,ghi,Dummy desc 4,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,5
-98,PID99,1.7196205351087783,ghi,Dummy desc 7,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,3
-35,PID36,1.4028570817576513,ghi,Dummy desc 4,0,0,0,0,5,0,4,0,0,0,0,0,0,0,0,0
-15,PID16,1.2361904150909846,Abc,Dummy desc 1,0,0,0,0,5,0,4,0,0,0,0,0,0,0,0,0
-55,PID56,1.1196171873145633,def,Dummy desc 4,0,0,0,0,4,0,3,0,0,0,0,0,0,0,0,0
-95,PID96,1.1196169786983066,ghi,Dummy desc 7,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,0
-75,PID76,1.111111111111111,Abc,Dummy desc 4,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0
+,ProjectID,score,Project Title,Description,Android Development,Web Development,Machine Learning,Data Mining,Marketing,Integration,Content Writing,Database Management,data structures & Algorithms,UI developement,Backend Development,Deep Learning,AWS,Testing & Debugging,photoshop,SEO
+58,PID59,2.236190415090985,Marketing campaign for SN Events,"Required an enthusiastic individual to: 
+1. Design and oversee all aspects of our digital marketing department including our marketing database, email, and display advertising campaigns.
+2. Develop and monitor campaign budgets.
+3. Plan and manage our social media platforms.",0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,5
+78,PID79,2.236190415090985,Fundraising campaign for Nanhi Pari ,Required a digital marketing enthusiast who desires to create an impact by revolutionizing education of young girls.,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,5
+18,PID19,2.1250810854964786,Brand awareness campaign for a startup,"Assisting in the formulation of strategies to build a lasting digital connection with consumers
+Planning and monitoring the ongoing company presence on social media
+Launching optimized online advertisements to increase company and brand awareness",0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,5
+38,PID39,2.0139699810081058,SEO for ABC Manufacturer,"A solid manufacturing SEO strategy, made up of both on- and off-page tactics, for:
+-Increased website traffic
+-More qualified leads
+-Higher brand awareness
+-Increased revenue",0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,5
+98,PID99,1.7196205351087783,BS Consultancy,Create an online marketing campaign with SEO utilization to increase company awareness.,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,3
