@@ -434,6 +434,10 @@
           </div>
         </div>
       </div>
-      <script src="../json.js"></script> 
+      <script>
+        fetch("/clicked")
+            .then(data => data.json())
+            .then(data => console.log(data))
+      </script> 
 </body>
 </html>
