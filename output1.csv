@@ -1,11 +1,11 @@
-,ProjectID,score,Project Title,Description,Android Development,Web Development,Machine Learning,Data Mining,Marketing,Integration,Content Writing,Database Management,data structures & Algorithms,UI developement,Backend Development,Deep Learning,AWS,Testing & Debugging,photoshop,SEO
-19,PID20,3.195235276222229,def,Dummy desc 2,5,0,0,0,0,0,0,3,0,5,0,0,0,0,0,0
-6,PID7,2.6,Abc,Dummy desc 1,5,0,0,0,0,0,0,2,0,4,0,0,0,0,4,0
-8,PID9,2.006526255607605,ghi,Dummy desc 3,4,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
-3,PID4,1.7046649442778694,Abc,Dummy desc 1,0,0,0,0,0,0,0,0,0,5,3,0,0,4,0,0
-2,PID3,1.587165656354692,ghi,Dummy desc 3,0,3,0,0,0,0,0,0,0,4,4,0,0,4,0,0
-4,PID5,1.5488722138934665,def,Dummy desc 2,0,0,4,0,0,0,0,0,0,4,2,5,0,5,0,0
-7,PID8,1.397111781438192,def,Dummy desc 2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-1,PID2,1.1781801064809163,def,Dummy desc 2,0,5,0,0,0,0,0,0,0,3,2,0,0,3,0,0
-17,PID18,1.1214276949564617,ghi,Dummy desc 3,0,0,0,0,0,0,0,0,0,5,0,0,0,0,4,0
-9,PID10,1.1161821683247883,Abc,Dummy desc 1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,3,0
+,ProjectID,score,Project Title,Description,Android Development,Web Development,Machine Learning,Data Mining,Digital Marketing,Integration,Content Writing,Database Management,data structures & Algorithms,UI developement,Backend Development,Deep Learning,AWS,Testing & Debugging,photoshop,SEO
+59,PID60,2.3449517806371056,ghi,Dummy desc 5,5,0,0,0,0,0,0,4,0,5,0,0,0,0,0,0
+19,PID20,2.2164547085762023,def,Dummy desc 2,5,0,0,0,0,0,0,3,0,5,0,0,0,0,0,0
+39,PID40,2.2164547085762023,Abc,Dummy desc 2,5,0,0,0,0,0,0,3,0,5,0,0,0,0,0,0
+99,PID100,2.1428412894407907,Abc,Dummy desc 5,4,0,0,0,0,0,0,5,0,4,0,0,0,0,0,0
+46,PID47,2.1336097203549884,def,Dummy desc 4,5,0,0,0,0,0,0,3,0,4,0,0,0,0,4,0
+28,PID29,2.11808798852421,def,Dummy desc 3,5,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+79,PID80,2.1037351863724845,def,Dummy desc 5,4,0,0,0,0,0,0,4,0,5,0,0,0,0,0,0
+87,PID88,1.9857852791036879,Abc,Dummy desc 5,5,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0
+6,PID7,1.9214285714285715,Abc,Dummy desc 1,5,0,0,0,0,0,0,2,0,4,0,0,0,0,4,0
+26,PID27,1.861339010511126,ghi,Dummy desc 4,3,0,0,0,0,0,0,4,0,4,0,0,0,0,4,0

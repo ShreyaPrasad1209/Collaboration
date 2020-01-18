@@ -1,11 +1,11 @@
-,ProjectID,score,Project Title,Description,Android Development,Web Development,Machine Learning,Data Mining,Marketing,Integration,Content Writing,Database Management,data structures & Algorithms,UI developement,Backend Development,Deep Learning,AWS,Testing & Debugging,photoshop,SEO
-18,PID19,3.209616939226786,Abc,Dummy desc 1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,5
-15,PID16,1.8762800296147664,Abc,Dummy desc 1,0,0,0,0,5,0,4,0,0,0,0,0,0,0,0,0
-19,PID20,0.295235276222229,def,Dummy desc 2,5,0,0,0,0,0,0,3,0,5,0,0,0,0,0,0
-17,PID18,0.28809436162312824,ghi,Dummy desc 3,0,0,0,0,0,0,0,0,0,5,0,0,0,0,4,0
-10,PID11,0.2867322564125061,def,Dummy desc 2,0,0,0,0,0,0,0,0,0,4,0,0,0,0,5,0
-9,PID10,0.2828488349914551,Abc,Dummy desc 1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,3,0
-8,PID9,0.27319292227427167,ghi,Dummy desc 3,4,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
-7,PID8,0.2637784481048584,def,Dummy desc 2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-3,PID4,0.22688716650009155,Abc,Dummy desc 1,0,0,0,0,0,0,0,0,0,5,3,0,0,4,0,0
-1,PID2,0.21151343981424967,def,Dummy desc 2,0,5,0,0,0,0,0,0,0,3,2,0,0,3,0,0
+,ProjectID,score,Project Title,Description,Android Development,Web Development,Machine Learning,Data Mining,Digital Marketing,Integration,Content Writing,Database Management,data structures & Algorithms,UI developement,Backend Development,Deep Learning,AWS,Testing & Debugging,photoshop,SEO
+58,PID59,2.236190415090985,def,Dummy desc 4,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,5
+78,PID79,2.236190415090985,Abc,Dummy desc 4,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,5
+18,PID19,2.1250810854964786,Abc,Dummy desc 1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,5
+38,PID39,2.0139699810081058,ghi,Dummy desc 4,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,5
+98,PID99,1.7196205351087783,ghi,Dummy desc 7,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,3
+35,PID36,1.4028570817576513,ghi,Dummy desc 4,0,0,0,0,5,0,4,0,0,0,0,0,0,0,0,0
+15,PID16,1.2361904150909846,Abc,Dummy desc 1,0,0,0,0,5,0,4,0,0,0,0,0,0,0,0,0
+55,PID56,1.1196171873145633,def,Dummy desc 4,0,0,0,0,4,0,3,0,0,0,0,0,0,0,0,0
+95,PID96,1.1196169786983066,ghi,Dummy desc 7,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,0
+75,PID76,1.111111111111111,Abc,Dummy desc 4,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0

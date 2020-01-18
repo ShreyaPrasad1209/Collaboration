@@ -1,11 +1,11 @@
-,ProjectID,score,Project Title,Description,Android Development,Web Development,Machine Learning,Data Mining,Marketing,Integration,Content Writing,Database Management,data structures & Algorithms,UI developement,Backend Development,Deep Learning,AWS,Testing & Debugging,photoshop,SEO
-1,PID2,2.4615134398142495,def,Dummy desc 2,0,5,0,0,0,0,0,0,0,3,2,0,0,3,0,0
-2,PID3,1.9871656563546922,ghi,Dummy desc 3,0,3,0,0,0,0,0,0,0,4,4,0,0,4,0,0
-0,PID1,1.502249499162038,Abc,Dummy desc 1,0,4,5,0,0,0,0,0,0,0,3,4,0,0,0,0
-3,PID4,1.0879982776112025,Abc,Dummy desc 1,0,0,0,0,0,0,0,0,0,5,3,0,0,4,0,0
-4,PID5,1.0822055472267997,def,Dummy desc 2,0,0,4,0,0,0,0,0,0,4,2,5,0,5,0,0
-16,PID17,0.8763652841250101,def,Dummy desc 2,0,0,0,0,0,0,0,0,5,0,4,0,0,0,0,0
-14,PID15,0.8009900318251715,ghi,Dummy desc 3,0,0,0,0,0,3,0,0,0,0,3,0,0,4,0,0
-13,PID14,0.7248295876714917,def,Dummy desc 2,0,0,0,0,0,4,0,0,0,0,5,0,3,3,0,0
-19,PID20,0.7119019428888956,def,Dummy desc 2,5,0,0,0,0,0,0,3,0,5,0,0,0,0,0,0
-17,PID18,0.7047610282897949,ghi,Dummy desc 3,0,0,0,0,0,0,0,0,0,5,0,0,0,0,4,0
+,ProjectID,score,Project Title,Description,Android Development,Web Development,Machine Learning,Data Mining,Digital Marketing,Integration,Content Writing,Database Management,data structures & Algorithms,UI developement,Backend Development,Deep Learning,AWS,Testing & Debugging,photoshop,SEO
+82,PID83,1.7603258471640328,def,Dummy desc 5,0,5,0,0,0,0,0,0,0,4,4,0,0,4,0,0
+1,PID2,1.7499250457400366,def,Dummy desc 2,0,5,0,0,0,0,0,0,0,3,2,0,0,3,0,0
+41,PID42,1.5873015873015872,Project Title,Description,0,5,0,0,0,0,0,0,0,3,3,0,0,4,0,0
+21,PID22,1.5832583790733699,Abc,Dummy desc 2,0,5,0,0,0,0,0,0,0,3,2,0,0,3,0,0
+61,PID62,1.5832583790733699,def,Dummy desc 4,0,5,0,0,0,0,0,0,0,3,2,0,0,3,0,0
+42,PID43,1.4661291481010494,Abc,Dummy desc 3,0,3,0,0,0,0,0,0,0,4,4,0,0,4,0,0
+2,PID3,1.4661291481010494,ghi,Dummy desc 3,0,3,0,0,0,0,0,0,0,4,4,0,0,4,0,0
+62,PID63,1.4078264702880192,Project Title,Description,0,3,0,0,0,0,0,0,0,5,4,0,0,4,0,0
+81,PID82,1.276190476190476,Abc,Dummy desc 4,0,4,0,0,0,0,0,0,0,3,3,0,0,3,0,0
+22,PID23,1.2300011788095746,def,Dummy desc 3,0,3,0,0,0,0,0,0,0,4,5,0,0,3,0,0
