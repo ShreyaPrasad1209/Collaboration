@@ -441,11 +441,11 @@
                   console.log(desc)
                   for(let i = 0; i < desc.length; i++){
                     let h3 = document.createElement("h3");
-                  let text1 = document.createTextNode(`${data['Project Title']}`)
+                  let text1 = document.createTextNode(`Project: ${data['Project Title']}`)
                   h3.appendChild(text1);
 
                   let div = document.createElement("div");
-                  let text2 = document.createTextNode(`${data['Description']}`)
+                  let text2 = document.createTextNode(`Description: ${data['Description']}`)
                   div.appendChild(text2);
 
                   desc[i].appendChild(h3)
