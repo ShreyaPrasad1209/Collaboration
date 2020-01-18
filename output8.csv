@@ -1,11 +1,8 @@
-,ProjectID,score,Project Title,Description,Android Development,Web Development,Machine Learning,Data Mining,Digital Marketing,Integration,Content Writing,Database Management,data structures & Algorithms,UI developement,Backend Development,Deep Learning,AWS,Testing & Debugging,photoshop,SEO
-89,PID90,2.108445903138509,ghi,Dummy desc 7,0,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0
-17,PID18,2.016902655173862,ghi,Dummy desc 3,0,0,0,0,0,0,0,0,0,5,0,0,0,0,4,0
-29,PID30,1.9335693218405285,ghi,Dummy desc 4,0,0,0,0,0,0,0,0,0,5,0,0,0,0,4,0
-49,PID50,1.9335693218405285,def,Dummy desc 4,0,0,0,0,0,0,0,0,0,5,0,0,0,0,4,0
-57,PID58,1.9335693218405285,Abc,Dummy desc 3,0,0,0,0,0,0,0,0,0,5,0,0,0,0,4,0
-37,PID38,1.9335693218405285,def,Dummy desc 3,0,0,0,0,0,0,0,0,0,5,0,0,0,0,4,0
-50,PID51,1.9202835947748216,ghi,Dummy desc 5,0,0,0,0,0,0,0,0,0,4,0,0,0,0,5,0
-10,PID11,1.9202835947748216,def,Dummy desc 2,0,0,0,0,0,0,0,0,0,4,0,0,0,0,5,0
-70,PID71,1.9202835947748216,def,Dummy desc 5,0,0,0,0,0,0,0,0,0,4,0,0,0,0,5,0
-9,PID10,1.8368128827639987,Abc,Dummy desc 1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,3,0
+,ProjectID,score,Project Title,Description,Android Development,Web Development,Machine Learning,Data Mining,Marketing,Integration,Content Writing,Database Management,data structures & Algorithms,UI developement,Backend Development,Deep Learning,AWS,Testing & Debugging,photoshop,SEO
+89,PID90,2.108445903138509,Content creation for ABC Infotech,Need a freelancer who can leverage strong content creation capabilities and is skilled in Photoshop to help design a marketing brochure for the company,0,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0
+17,PID18,2.016902655173862,Content creation for an e-learning website,"Required a talented Content Writer to create compelling blog posts, white papers, product descriptions, social media content and web copy. ",0,0,0,0,0,0,0,0,0,5,0,0,0,0,4,0
+29,PID30,1.9335693218405285,Logo designing for startup,"Designing logos and collateral materials as per the specifications of the clients.
+Creating and modifying Illustrator vector graphics.
+Sketching logo and word mark ideas.",0,0,0,0,0,0,0,0,0,5,0,0,0,0,4,0
+49,PID50,1.9335693218405285,Banking App UI development,An interactive UI development required for the banking application that could provide the user easy and smart interactive user interface.,0,0,0,0,0,0,0,0,0,5,0,0,0,0,4,0
+57,PID58,1.9335693218405285,Website UI and templates development Project ,A simple and straight forward project based on the UI development to develop the user interactive interface and the templates including the logo designing for the website.,0,0,0,0,0,0,0,0,0,5,0,0,0,0,4,0

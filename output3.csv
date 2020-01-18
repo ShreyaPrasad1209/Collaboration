@@ -1,11 +1,6 @@
-,ProjectID,score,Project Title,Description,Android Development,Web Development,Machine Learning,Data Mining,Digital Marketing,Integration,Content Writing,Database Management,data structures & Algorithms,UI developement,Backend Development,Deep Learning,AWS,Testing & Debugging,photoshop,SEO
-40,PID41,2.5,def,Dummy desc 3,0,4,5,0,0,0,0,0,0,0,5,5,0,0,0,0
-84,PID85,2.5,Abc,Dummy desc 5,0,0,5,0,0,0,0,0,0,4,3,5,0,5,0,0
-80,PID81,2.458498696486155,ghi,Dummy desc 6,0,3,5,0,0,0,0,0,0,0,4,4,0,0,0,0
-24,PID25,2.4166666666666665,Abc,Dummy desc 2,0,0,5,0,0,0,0,0,0,4,4,4,0,4,0,0
-25,PID26,2.397440771261851,def,Dummy desc 3,0,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0
-20,PID21,2.3333333333333335,Project Title,Description,0,4,5,0,0,0,0,0,0,0,3,4,0,0,0,0
-60,PID61,2.3333333333333335,Abc,Dummy desc 3,0,4,5,0,0,0,0,0,0,0,3,4,0,0,0,0
-0,PID1,2.3333333333333335,Abc,Dummy desc 1,0,4,5,0,0,0,0,0,0,0,3,4,0,0,0,0
-4,PID5,2.25,def,Dummy desc 2,0,0,4,0,0,0,0,0,0,4,2,5,0,5,0,0
-64,PID65,2.1666666666666665,def,Dummy desc 5,0,0,4,0,0,0,0,0,0,3,2,5,0,5,0,0
+,ProjectID,score,Project Title,Description,Android Development,Web Development,Machine Learning,Data Mining,Marketing,Integration,Content Writing,Database Management,data structures & Algorithms,UI developement,Backend Development,Deep Learning,AWS,Testing & Debugging,photoshop,SEO
+40,PID41,2.5,Research project on Deep Learning,Development of an open source framework for deep learning,0,4,5,0,0,0,0,0,0,0,5,5,0,0,0,0
+84,PID85,2.5,Sales forecasting for startup,To develop Neural Network models to be used for Sales prospecting (i.e. identifying new customers for product/service),0,0,5,0,0,0,0,0,0,4,3,5,0,5,0,0
+80,PID81,2.458498696486155,Combat online child sexual abuse in association with Arpan NGO,To analyse survey data and develop AI to recognise online child sexual abuse material.,0,3,5,0,0,0,0,0,0,0,4,4,0,0,0,0
+24,PID25,2.4166666666666665,Recommender system for college project,Need help with a Machine Learning model for building a course recommender system to be deployed in the college.,0,0,5,0,0,0,0,0,0,4,4,4,0,4,0,0
+25,PID26,2.397440771261851,Sales Prediction Project,"A bigmart sales consist of about 10,000+sales data from 1700 usersaccross 10different outlets. The goal is to predict sales using machine learning model, such that model helps bigmart to understand properties of product and stores over the sales made.",0,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0
