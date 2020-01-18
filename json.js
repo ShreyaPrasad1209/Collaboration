@@ -16,7 +16,7 @@ fetch(myRequest)
 							<td>${data[i].ProjectID}</td>
 							
 					  </tr>`
-            table.innerHTML += row
+            table.insertAdjacentHTML('beforeend',row);
         console.log('hello');
         }
     });
