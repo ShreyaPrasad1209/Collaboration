@@ -33,7 +33,7 @@
       </nav>
       <!-- Feed -->
     <div class="font-sans p-2 ">
-      <div class="bg-white max-w-md mx-auto my-8 border border-grey-light rounded-t-lg overflow-hidden hover:shadow-2xl">
+      <div class="bg-white max-w-md mx-auto my-8 border border-grey-light rounded-t-lg overflow-hidden hover:shadow-2xl data">
     
 
         <style>
@@ -93,8 +93,8 @@
                   <span>2 hours ago</span>
                 </div>
               </header>
-              <article class="py-4 text-grey-darkest">
-                Lorem ipsum sit dolor et amet et cetera og quandum morales.
+              <article class="py-4 text-grey-darkest desc">
+                
               </article>
               <footer class="border-t border-grey-lighter text-sm flex">
                 <a href="#" class="block no-underline text-blue flex px-4 py-2 items-center hover:bg-grey-lighter">
@@ -141,8 +141,8 @@
                   <span>2 hours ago</span>
                 </div>
               </header>
-              <article class="py-4 text-grey-darkest">
-                Lorem ipsum sit dolor et amet et cetera og quandum morales.
+              <article class="py-4 text-grey-darkest desc">
+                
               </article>
               <footer class="border-t border-grey-lighter text-sm flex">
                 <a href="#" class="block no-underline text-black flex px-4 py-2 items-center hover:bg-grey-lighter">
@@ -187,8 +187,7 @@
                   <span>A few minutes ago</span>
                 </div>
               </header>
-              <article class="py-4 text-grey-darkest">
-                Lorem ipsum no lo se dolores ametandum come
+              <article class="py-4 text-grey-darkest desc">
               </article>
               <footer class="border-t border-grey-lighter text-sm flex">
                 <a href="#" class="block no-underline text-black flex px-4 py-2 items-center hover:bg-grey-lighter">
@@ -233,7 +232,7 @@
                   <span>Just now</span>
                 </div>
               </header>
-              <article class="py-4 text-grey-darkest leading-normal">
+              <article class="py-4 text-grey-darkest desc leading-normal">
                 <a class="no-underline text-blue" href="#">@max_the_great</a> Lorem ipsum no lo se dolores ametandum no come,
                 astare pero canime perferme
               </article>
@@ -300,8 +299,8 @@
                   <span>2 hours ago</span>
                 </div>
               </header>
-              <article class="py-4 text-grey-darkest">
-                Lorem ipsum sit dolor et amet et cetera og quandum morales.
+              <article class="py-4 text-grey-darkest desc">
+                
               </article>
               <footer class="border-t border-grey-lighter text-sm flex">
                 <a href="#" class="block no-underline text-blue flex px-4 py-2 items-center hover:bg-grey-lighter">
@@ -346,7 +345,7 @@
                   <span>Just now</span>
                 </div>
               </header>
-              <article class="py-4 text-grey-darkest leading-normal">
+              <article class="py-4 text-grey-darkest desc leading-normal">
                 <a class="no-underline text-blue" href="#">@max_the_great</a> Lorem ipsum no lo se dolores ametandum no come,
                 astare pero canime perferme
               </article>
@@ -409,8 +408,8 @@
                   <span>2 hours ago</span>
                 </div>
               </header>
-              <article class="py-4 text-grey-darkest">
-                Lorem ipsum sit dolor et amet et cetera og quandum morales.
+              <article class="py-4 text-grey-darkest desc">
+                
               </article>
               <footer class="border-t border-grey-lighter text-sm flex">
                 <a href="#" class="block no-underline text-blue flex px-4 py-2 items-center hover:bg-grey-lighter">
@@ -435,9 +434,24 @@
         </div>
       </div>
       <script>
-        fetch("/clicked")
+        fetch("/user1")
             .then(data => data.json())
-            .then(data => console.log(data))
+            .then(data => {
+                  let desc = document.querySelectorAll(".desc");
+                  console.log(desc)
+                  for(let i = 0; i < desc.length; i++){
+                    let h3 = document.createElement("h3");
+                  let text1 = document.createTextNode(`${data['Project Title']}`)
+                  h3.appendChild(text1);
+
+                  let div = document.createElement("div");
+                  let text2 = document.createTextNode(`${data['Description']}`)
+                  div.appendChild(text2);
+
+                  desc[i].appendChild(h3)
+                  desc[i].appendChild(div) 
+                }
+            })
       </script> 
 </body>
 </html>
