@@ -4,7 +4,7 @@
   "private": true,
   "license": "UNLICENSED",
   "author": "",
-  "description": "",
+  "description": "Project's source files are placed in ./src/ directory.",
   "scripts": {
     "browsersync": "browser-sync start --directory --server ./public --files ./public/* --startPath index.html",
     "clean": "rimraf public/*",
@@ -31,5 +31,14 @@
     "pug": "^2.0.3",
     "pug-cli": "^1.0.0-alpha6",
     "rimraf": "^2.6.2"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eKuG/Collaboration-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eKuG/Collaboration-1/issues"
+  },
+  "homepage": "https://github.com/eKuG/Collaboration-1#readme"
 }
