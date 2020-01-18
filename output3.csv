@@ -1,11 +1,11 @@
 ,ProjectID,score,Project Title,Description,Android Development,Web Development,Machine Learning,Data Mining,Marketing,Integration,Content Writing,Database Management,data structures & Algorithms,UI developement,Backend Development,Deep Learning,AWS,Testing & Debugging,photoshop,SEO
-4,PID5,3.193316658337911,def,Dummy desc 2,0,0,4,0,0,0,0,0,0,4,2,5,0,5,0,0
-0,PID1,3.168916165828705,Abc,Dummy desc 1,0,4,5,0,0,0,0,0,0,0,3,4,0,0,0,0
-5,PID6,2.210404415925344,ghi,Dummy desc 3,0,0,3,0,0,0,0,0,0,0,0,3,0,0,0,0
-11,PID12,1.2046892444292705,ghi,Dummy desc 3,0,0,3,4,0,0,0,0,0,0,0,0,3,0,5,0
-16,PID17,0.7096986174583435,def,Dummy desc 2,0,0,0,0,0,0,0,0,5,0,4,0,0,0,0,0
-19,PID20,0.295235276222229,def,Dummy desc 2,5,0,0,0,0,0,0,3,0,5,0,0,0,0,0,0
-17,PID18,0.28809436162312824,ghi,Dummy desc 3,0,0,0,0,0,0,0,0,0,5,0,0,0,0,4,0
-10,PID11,0.2867322564125061,def,Dummy desc 2,0,0,0,0,0,0,0,0,0,4,0,0,0,0,5,0
-9,PID10,0.2828488349914551,Abc,Dummy desc 1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,3,0
-8,PID9,0.27319292227427167,ghi,Dummy desc 3,4,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0
+40,PID41,2.5,def,Dummy desc 3,0,4,5,0,0,0,0,0,0,0,5,5,0,0,0,0
+84,PID85,2.5,Abc,Dummy desc 5,0,0,5,0,0,0,0,0,0,4,3,5,0,5,0,0
+80,PID81,2.458498696486155,ghi,Dummy desc 6,0,3,5,0,0,0,0,0,0,0,4,4,0,0,0,0
+24,PID25,2.4166666666666665,Abc,Dummy desc 2,0,0,5,0,0,0,0,0,0,4,4,4,0,4,0,0
+25,PID26,2.397440771261851,def,Dummy desc 3,0,0,4,0,0,0,0,0,0,0,0,5,0,0,0,0
+20,PID21,2.3333333333333335,Project Title,Description,0,4,5,0,0,0,0,0,0,0,3,4,0,0,0,0
+60,PID61,2.3333333333333335,Abc,Dummy desc 3,0,4,5,0,0,0,0,0,0,0,3,4,0,0,0,0
+0,PID1,2.3333333333333335,Abc,Dummy desc 1,0,4,5,0,0,0,0,0,0,0,3,4,0,0,0,0
+4,PID5,2.25,def,Dummy desc 2,0,0,4,0,0,0,0,0,0,4,2,5,0,5,0,0
+64,PID65,2.1666666666666665,def,Dummy desc 5,0,0,4,0,0,0,0,0,0,3,2,5,0,5,0,0
